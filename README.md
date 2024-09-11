@@ -1,4 +1,4 @@
-Fully deploy app
+Deploying using choreo (and it sucks)
 
 Functional:
 - Register
